@@ -1,0 +1,7 @@
+^dictionary\.txt$
+^docs/assets/images/
+^example\.tex$
+^LICENSE$
+^Source/Core/tex/
+^Source/CoreTest/src/ca/uqac/lif/textidote/rules/data/
+^\.github/actions/spell-check/

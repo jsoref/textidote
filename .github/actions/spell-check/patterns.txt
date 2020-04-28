@@ -1,0 +1,2 @@
+data:[a-zA-Z=;,/0-9+]+
+TeXtidote
